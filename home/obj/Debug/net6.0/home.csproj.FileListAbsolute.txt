@@ -1,0 +1,15 @@
+C:\Users\Win-Dos\Desktop\С#1\home\bin\Debug\net6.0\home.exe
+C:\Users\Win-Dos\Desktop\С#1\home\bin\Debug\net6.0\home.deps.json
+C:\Users\Win-Dos\Desktop\С#1\home\bin\Debug\net6.0\home.runtimeconfig.json
+C:\Users\Win-Dos\Desktop\С#1\home\bin\Debug\net6.0\home.dll
+C:\Users\Win-Dos\Desktop\С#1\home\bin\Debug\net6.0\home.pdb
+C:\Users\Win-Dos\Desktop\С#1\home\obj\Debug\net6.0\home.csproj.AssemblyReference.cache
+C:\Users\Win-Dos\Desktop\С#1\home\obj\Debug\net6.0\home.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Win-Dos\Desktop\С#1\home\obj\Debug\net6.0\home.AssemblyInfoInputs.cache
+C:\Users\Win-Dos\Desktop\С#1\home\obj\Debug\net6.0\home.AssemblyInfo.cs
+C:\Users\Win-Dos\Desktop\С#1\home\obj\Debug\net6.0\home.csproj.CoreCompileInputs.cache
+C:\Users\Win-Dos\Desktop\С#1\home\obj\Debug\net6.0\home.dll
+C:\Users\Win-Dos\Desktop\С#1\home\obj\Debug\net6.0\refint\home.dll
+C:\Users\Win-Dos\Desktop\С#1\home\obj\Debug\net6.0\home.pdb
+C:\Users\Win-Dos\Desktop\С#1\home\obj\Debug\net6.0\home.genruntimeconfig.cache
+C:\Users\Win-Dos\Desktop\С#1\home\obj\Debug\net6.0\ref\home.dll
